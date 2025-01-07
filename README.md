@@ -33,3 +33,7 @@ Start by cloning the repository to your local machine:
 git clone <repository-url>
 cd <project-directory>
 npm run dev
+
+
+paste the provided content labeled ONE in wide-world-firebase-adminssdk.json file in src folder.
+paste the provided content labeled ENV in .env.local file in root directory.
